@@ -1,6 +1,18 @@
 #Mary’s Lamb
-## Tools used
+## Programs Used
 Java
+
+### Libraries used
+```
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.StringTokenizer;
+import javax.swing.*;
+import java.awt.*;
+```
 
 ## Overview
 The purpose of this project is to filter a given text file based on the validity of the words within the text file and to the sort the words within the files into two arrays, one by the name of “valid” to hold words containing only alphabetical letters, and another called “invalid” to hold words that contain non-alphabetical characters. To present our results, we will output our results into a graphical user interface.
