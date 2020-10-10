@@ -15,7 +15,7 @@ import java.awt.*;
 ```
 
 ## Overview
-The purpose of this project is to filter a given text file based on the validity of the words within the text file and to the sort the words within the files into two arrays, one by the name of “valid” to hold words containing only alphabetical letters, and another called “invalid” to hold words that contain non-alphabetical characters. To present our results, we will output our results into a graphical user interface.
+The purpose of this project is to filter a given text file based on the validity of the words within the text file and to sort the words within the files into two arrays, one by the name of “valid” to hold words containing only alphabetical letters, and another called “invalid” to hold words that contain non-alphabetical characters. To present our results, we will output our results into a graphical user interface.
 
 ## Project1.java Process
 We first initialize three arrays. A master array to hold all the words in the text file, a “valid” array to hold words containing only letters, and an “invalid” array to hold words containing non-alphabetical letters.
